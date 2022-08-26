@@ -1,4 +1,3 @@
-
 #!/bin/bash
-alx school
+echo "ALX School is so cool!"
 
